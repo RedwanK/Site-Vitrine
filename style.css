@@ -11,6 +11,7 @@
 #myCarousel{
   margin-top:1%;
   background-color: #E6E6E6;
+  display:block;
 }
 .logo{
   margin-top: 4%;
